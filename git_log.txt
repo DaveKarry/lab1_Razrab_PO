@@ -1,0 +1,23 @@
+commit 3680c95ed45c88038dee10e4d88692a60889e72b
+Author: Dave <Davekarry1337@gmail.com>
+Date:   Thu Sep 10 15:09:44 2020 +0500
+
+    Added html header
+
+commit e523f23cbfb0494622ff0939cb073d5ec56fba0d
+Author: Dave <Davekarry1337@gmail.com>
+Date:   Thu Sep 10 15:08:10 2020 +0500
+
+    Added standard html page tags
+
+commit 8012f2418030583fc122fa8d9d86f1bf352b8f2c
+Author: Dave <Davekarry1337@gmail.com>
+Date:   Thu Sep 10 14:59:00 2020 +0500
+
+    creating file hello.html. wow!
+
+commit 0137e677f0a52afd376ba0b4bb792fdca7d892bb
+Author: Dave <Davekarry1337@gmail.com>
+Date:   Thu Sep 10 14:51:08 2020 +0500
+
+    First Commit
